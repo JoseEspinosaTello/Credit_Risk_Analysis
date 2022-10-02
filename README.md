@@ -15,3 +15,23 @@ Technologies
 ## Naive Random Oversampling
 
 ![naive](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/naive.png)
+
+## SMOTE Oversampling
+
+![smoteOver](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/smoteOver.png)
+
+## Undersampling
+
+![undersampling](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/undersampling.png)
+
+## Combination
+
+![combination](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
+
+## Ensemble Learner - Balanced Random Forest Classifier
+
+![brfc](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
+
+## Ensemble Learner - AdaBoost
+
+![ada](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
