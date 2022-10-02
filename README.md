@@ -11,3 +11,7 @@ Technologies
 -	Imbalanced-learn and sci-kit learn libraries for Pandas
 
 ## Results
+
+## Naive Random Oversampling
+
+![Naive_Random_imbalanced_report](https://user-images.githubusercontent.com/101822948/183743334-e26fa134-1b81-4ca8-9d84-1df8b8d62852.png)
