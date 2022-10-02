@@ -16,22 +16,111 @@ Technologies
 
 ![naive](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/naive.png)
 
+Balanced Accuracy Score: 61.8%
+
+Precision:
+
+	- High-Risk: .01
+	- Low-Risk: 1
+	- Average: .99
+Recall:
+
+	- High-Risk: .63
+	- Low-Risk: .61
+	- Average: .61
+
+
 ## SMOTE Oversampling
 
 ![smoteOver](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/smoteOver.png)
+
+Balanced Accuracy Score: 62%
+
+Precision:
+
+	- High-Risk: .01
+	- Low-Risk: 1
+	- Average: .99
+
+Recall:
+
+	- High-Risk: .59
+	- Low-Risk: .65
+	- Average: .65
+
 
 ## Undersampling
 
 ![undersampling](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/undersampling.png)
 
+Balanced Accuracy Score: 53%
+
+Precision:
+
+	- High-Risk: .01
+	- Low-Risk: 1
+	- Average: .99
+
+Recall:
+
+	- High-Risk: .63
+	- Low-Risk: .43
+	- Average: .43
+
 ## Combination
 
 ![combination](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
+
+Balanced Accuracy Score: 63.2%
+
+Precision:
+
+	- High-Risk: .01
+	- Low-Risk: 1
+	- Average: .99
+
+Recall:
+
+	- High-Risk: .68
+	- Low-Risk: .58
+	- Average: .58
 
 ## Ensemble Learner - Balanced Random Forest Classifier
 
 ![brfc](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/brfc.png)
 
+
+Balanced Accuracy Score: 79%
+
+Precision:
+
+	- High-Risk: .03
+	- Low-Risk: 1
+	- Average: .99
+
+Recall:
+
+	- High-Risk: .68
+	- Low-Risk: .90
+	- Average: .90
+
 ## Ensemble Learner - AdaBoost
 
 ![ada](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/ada.png)
+
+
+Balanced Accuracy Score: 93%
+
+Precision:
+
+	- High-Risk: .07
+	- Low-Risk: 1
+	- Average: .99
+
+Recall:
+
+	- High-Risk: .91
+	- Low-Risk: .94
+	- Average: .94
+
+### Summary
