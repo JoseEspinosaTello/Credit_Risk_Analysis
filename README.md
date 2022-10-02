@@ -14,4 +14,4 @@ Technologies
 
 ## Naive Random Oversampling
 
-![Naive_Random_imbalanced_report](https://user-images.githubusercontent.com/101822948/183743334-e26fa134-1b81-4ca8-9d84-1df8b8d62852.png)
+![naive](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/naive.png)
