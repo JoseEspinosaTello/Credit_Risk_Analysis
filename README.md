@@ -30,8 +30,8 @@ Technologies
 
 ## Ensemble Learner - Balanced Random Forest Classifier
 
-![brfc](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
+![brfc](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/brfc.png)
 
 ## Ensemble Learner - AdaBoost
 
-![ada](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/combination.png)
+![ada](https://github.com/JoseEspinosaTello/Credit_Risk_Analysis/blob/main/Resources/Images/ada.png)
