@@ -124,3 +124,5 @@ Recall:
 	- Average: .94
 
 ### Summary
+
+By setting the random state of each model to 1, this allows us equally to compare the model results.
