@@ -125,4 +125,4 @@ Recall:
 
 ### Summary
 
-By setting the random state of each model to 1, this allows us equally to compare the model results.
+By setting the random state of each model to 1, this allows us equally to compare the model results. Overall the ensemble models returned higher accuracy scores. The precision scores for all low risk scores were all 1, this meant the models all did well predicting the low risk scores. THe high risk precision scores varied meaning the models did not predict the high risk scores as accuratly. In the end the ensamble models were more accurate when it came to predicting the high/low risk scores and would be the better choice for the machine learning models.  
